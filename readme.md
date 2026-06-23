@@ -1,5 +1,5 @@
 # N SUM PROBLEM SOLVER
-This is my solution for the classic "N SUM PROBLEM".
+This is my solution for the classic "N Sum Problem".
 # How-To
 After cloning the repository, run the 'main_solver.py' file. The program will ask for two inputs:
 1. A target number (the 'n')
