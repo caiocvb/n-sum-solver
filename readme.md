@@ -10,3 +10,4 @@ Then, it will  check which of the numbers can be summed to meet the target numbe
 - 0.1 - Initial release.
 # Known bugs
 - If the user separates the list of numbers with anything else than whitespaces, the program will fail to split the string into a list/array.
+- If the user sets anything different from a interger while setting the targer number, the program will fail.
